@@ -1,5 +1,2 @@
-
-# Print hello worls
+# Hello world example
 print("Hello World!")
-
-# another 
