@@ -12,7 +12,7 @@ This simple program prints "Hello World" and additional messages to the console.
 - Establish a professional GitHub presence with proper documentation
 - Prepare for more complex C++ projects in the coming weeks
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://drive.google.com/file/d/1F266r1SkbMBno8jNQuq1TpR4uuuSu1A5/view?usp=sharing)
 
 ## Development Environment
 
